@@ -1,4 +1,4 @@
-<h1 align="center">Wanted Optimizer Pro</h1>
+<h1 align="center">Wanted Optimizer Pro
 
 ### A free Advanced Windows Optimization and System Care & Management
 
@@ -152,3 +152,4 @@ Wanted Optimizer Pro is intended to be free to use. No purchase is required to u
 **Wanted Optimizer Pro — Optimize. Maintain. Take Control.**
 
 A unified approach to Windows optimization, system care, and management.
+</h1>
