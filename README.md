@@ -1,6 +1,6 @@
-# Wanted Optimizer Pro
+<h1 align="center">Wanted Optimizer Pro</h1>
 
-### Advanced Windows Optimization and System Care & Management
+### A free Advanced Windows Optimization and System Care & Management
 
 **Wanted Optimizer Pro** is a free Windows desktop application designed to bring PC optimization, system care, maintenance, cleanup tools, and performance management together in one modern, centralized interface.
 
