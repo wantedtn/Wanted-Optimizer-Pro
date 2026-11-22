@@ -11,20 +11,7 @@
   <br>
   Advanced Windows Optimization, Performance Tuning & System Management.
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10 and 11">
-  <img src="https://img.shields.io/badge/License-Free-22C55E?style=for-the-badge" alt="Free">
-  <img src="https://img.shields.io/badge/Version-1.0.0-FF334F?style=for-the-badge" alt="Version 1.0.0">
-</p>
-
-<p align="center">
-  <a href="https://github.com/wantedtn/Wanted-Optimizer-Pro">GitHub Repository</a>
-  •
-  <a href="https://github.com/wantedtn/Wanted-Optimizer-Pro/issues">Report an Issue</a>
-  •
-  <a href="YOUR_DISCORD_INVITE">Discord Community</a>
-</p>
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/7e616abf-b1e5-40e3-865e-094daaae6c58" />
 
 ---
 
@@ -61,45 +48,7 @@ Multilingual interface support with English and Arabic localization.
 
 ---
 
-## Screenshots
 
-<p align="center">
-  <strong>Dashboard</strong>
-  <br>
-  <img src="assets/images/dashboard.png" alt="Wanted Optimizer Pro Dashboard" width="85%">
-</p>
-
-<p align="center">
-  <strong>System Optimization</strong>
-  <br>
-  <img src="assets/images/system-optimization.png" alt="System Optimization" width="85%">
-</p>
-
-<p align="center">
-  <strong>PC Cleaner</strong>
-  <br>
-  <img src="assets/images/pc-cleaner.png" alt="PC Cleaner" width="85%">
-</p>
-
-<p align="center">
-  <strong>Registry Cleaner</strong>
-  <br>
-  <img src="assets/images/registry-cleaner.png" alt="Registry Management" width="85%">
-</p>
-
-<p align="center">
-  <strong>System Analysis</strong>
-  <br>
-  <img src="assets/images/system-analysis.png" alt="System Analysis" width="85%">
-</p>
-
-<p align="center">
-  <strong>Settings</strong>
-  <br>
-  <img src="assets/images/settings.png" alt="Application Settings" width="85%">
-</p>
-
----
 
 ## Compatibility
 
@@ -125,17 +74,13 @@ Internet access is required for the application's online activation and license 
 
 ## Free to Use
 
-Wanted Optimizer Pro is designed to be **100% free**.
-
 No purchase is required to use the software. Follow the application's activation instructions to complete online registration.
 
 ## Community & Support
 
 Have a question, found a bug, or want to suggest an improvement?
 
-- **Issues:** [Report bugs and request features](https://github.com/wantedtn/Wanted-Optimizer-Pro/issues)
-- **Discussions:** [Join the project discussions](https://github.com/wantedtn/Wanted-Optimizer-Pro/discussions)
-- **Discord:** [Join our community](YOUR_DISCORD_INVITE)
+- **Discord:** [Join our community](https://discord.gg/JzfZKpEZdY)
 
 ## Development
 
