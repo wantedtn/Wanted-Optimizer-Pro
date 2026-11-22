@@ -1,8 +1,3 @@
-# Wanted Optimizer Pro
-
-<p align="center">
-  <img src="assets/images/banner.png" alt="Wanted Optimizer Pro Banner" width="100%">
-</p>
 
 <h1 align="center">WANTED OPTIMIZER PRO</h1>
 
